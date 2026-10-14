@@ -8,12 +8,11 @@ este proyecto es un TODO LIST que tiene el proposito de gestionar tareas y cambi
 
 # Funcionalidades principales
 
-- Funcionalidad 1 ( gestión de tareas)
+- Funcionalidad 1 (gestión de tareas)
 - Funcionalidad 2 (eliminara tareas )
 - funcionalidad 3 (cambiar de estado una tarea a hecha )
 - Funcionalidad 4 (contador de tareas y tareas completadas )
 - Papelera: permite recuperar o eliminar definitivamente elementos borrados previamente.
-
 # Capturas de pantalla
 
 esta captura es del menu del TODO LIST
