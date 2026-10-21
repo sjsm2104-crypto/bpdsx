@@ -130,7 +130,7 @@ export default function Home() {
           <div>
             <h1 className="text-2xl font-bold tracking-tight text-[var(--color-foreground)]">
               Lista de Tareas
-            /h1>
+            </h1>
             <p className="text-xs text-[var(--color-muted)]">BPDS Project · Next.js CRUD</p>
           </div>
           <div className="flex gap-2">
