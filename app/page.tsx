@@ -129,7 +129,7 @@ export default function Home() {
         <header className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-[var(--color-border)] pb-5">
           <div>
             <h1 className="text-2xl font-bold tracking-tight text-[var(--color-foreground)]">
-              TODO LIST
+              Lista de Tareas
             </h1>
             <p className="text-xs text-[var(--color-muted)]">BPDS Project · Next.js CRUD</p>
           </div>
