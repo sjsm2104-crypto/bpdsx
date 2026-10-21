@@ -145,7 +145,7 @@ export default function Home() {
 
         <input
           type="text"
-          placeholder="Escribe una tarea y presiona Enter"
+          placeholder="Añade una tarea y presiona Enter"
           value={newTodo}
           onChange={(e) => setNewTodo(e.target.value)}
           onKeyDown={addTodo}
