@@ -4,7 +4,7 @@ TODO LIST
 
 # Descripción
 
-este proyecto es un TODO LIST que tiene el proposito de gestionar tareas y cambiarlas a hechas o eliminarlas ademas de poder recuperarlas de la papelera,otro proposito es sacar un 5.0 en la materia 
+Este proyecto es un TODO LIST que tiene el proposito de gestionar tareas y cambiarlas a hechas o eliminarlas ademas de poder recuperarlas de la papelera,otro proposito es sacar un 5.0 en la materia.
 
 # Funcionalidades principales
 
